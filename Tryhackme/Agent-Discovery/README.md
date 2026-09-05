@@ -1,4 +1,4 @@
-## Architectural Comparison: System Control Models
+# Architectural Comparison: System Control Models
 
 To determine the correct automation level for NorthStar Fashion, we evaluate potential architectures based on **Control Ownership** and **LLM Integration**:
 
